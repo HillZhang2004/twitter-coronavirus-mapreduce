@@ -1,4 +1,3 @@
-![Build and Test Dev Environment](https://github.com/HillZhang2004/flask-on-docker-advanced/actions/workflows/ci.yml/badge.svg?branch=main)
 # Coronavirus Twitter Analysis
 
 This project analyzes geotagged Twitter data from 2020 to track coronavirus-related hashtag usage across languages, countries, and time. I built a Python-based MapReduce pipeline on a remote Linux server to process daily tweet archives in parallel, aggregate the results into yearly summaries, and generate visualizations that highlight multilingual and geographic trends in social media activity.
